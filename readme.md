@@ -42,7 +42,7 @@
 - [anyenv](https://github.com/anyenv/anyenv) - A version manager wrapper allowing maintenance of multiple version managers.
 - [aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly.
 - [asdf-vm](https://github.com/asdf-vm/asdf) - An extendable version manager using a plugin structure to handle new version managers.
-- [mise](https://github.com/jdx/mise) - An `asdf` drop-in replacement written in Rust.
+- [mise](https://github.com/jdx/mise) - An `asdf`-inspired version manager, previously named `rtx`, aiming for better UX and better performance.
 - [proto](https://github.com/moonrepo/proto) - A pluggable next-generation version manager for multiple programming languages as unified toolchain.
 
 ### Python
